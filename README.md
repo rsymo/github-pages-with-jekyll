@@ -15,7 +15,8 @@ This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
 
 # Site
 Visit the site at: https://rsymo.github.io/github-pages-with-jekyll/
-http://<username>.github.io/<repository>
+
+i.e. http://username.github.io/repository
 
 # Docs
 https://pages.github.com/ (this example is a project site)
