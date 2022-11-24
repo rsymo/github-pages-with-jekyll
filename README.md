@@ -20,3 +20,4 @@ i.e. http://username.github.io/repository
 
 # Docs
 https://pages.github.com/ (this example is a project site)
+https://help.github.com/articles/using-jekyll-with-pages (it's using Jekyll to run the blog component)
